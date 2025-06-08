@@ -1,0 +1,662 @@
+[
+  {
+    "id": 1,
+    "name": "Vikram",
+    "language": "Tamil",
+    "clues": [
+      "Special agent and team dismantle drug syndicate; explosive action ensues.",
+      "The exhilarating climax where the hero assaults the cartel's lair.",
+      "\" *Tha pathukalam...\"",
+      "Lokesh Kanagaraj",
+      "Kamal Haasan, Fahadh Faasil, Vijay Sethupathi"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Jailer",
+    "language": "Tamil",
+    "clues": [
+      "Retired jailer hunts idol smuggler to avenge son's mysterious death.",
+      "Hero storms villain’s den with backup, revealing his brutal past.",
+      "\"Tiger ka Hukum!\"",
+      "Nelson Dilipkumar",
+      "Rajinikanth, Vinayakan, Ramya Krishnan, Tamannaah Bhatia"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Leo",
+    "language": "Tamil",
+    "clues": [
+      "Peaceful café owner’s violent past resurfaces when gangsters attack.",
+      "Hero defends family in café, unleashing deadly combat skills.",
+      "\"Bloody Sweet.\"",
+      "Lokesh Kanagaraj",
+      "Vijay, Sanjay Dutt, Trisha, Arjun"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Ponniyin Selvan: I",
+    "language": "Tamil",
+    "clues": [
+      "Messenger prince uncovers conspiracies threatening Chola dynasty’s throne.",
+      "Heroine confronts traitors in palace to protect royal lineage.",
+      "\" Uyir ungaludayathu devi...\"",
+      "Mani Ratnam",
+      "Vikram, Aishwarya Rai Bachchan, Karthi, Trisha"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Kabali",
+    "language": "Tamil",
+    "clues": [
+      "Aged gangster seeks revenge and searches for lost family.",
+      "Hero rams car into rival after insult about his wife.",
+      "\" Apdi than da okaruven, Style-ah, gethu-ah...\"",
+      "Pa. Ranjith",
+      "Rajinikanth, Radhika Apte, Winston Chao"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Bigil",
+    "language": "Tamil",
+    "clues": [
+      "Gangster-turned-coach leads women's football team to national glory.",
+      "Hero motivates team with emotional speech before final match.",
+      "\"Singappenney!\"",
+      "Atlee",
+      "Vijay, Nayanthara, Jackie Shroff"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Enthiran",
+    "language": "Tamil",
+    "clues": [
+      "Scientist’s humanoid robot turns rogue after developing emotions.",
+      "Robot clones itself and forms a destructive army.",
+      "\" Petha pulla maathiri valathane da...\"",
+      "S. Shankar",
+      "Rajinikanth, Aishwarya Rai Bachchan, Danny Denzongpa"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Master",
+    "language": "Tamil",
+    "clues": [
+      "Alcoholic professor reforms juvenile inmates, battles gangster.",
+      "Hero fights villain in juvenile center’s dark corridor.",
+      "\"Vaathi coming!\"",
+      "Lokesh Kanagaraj",
+      "Vijay, Vijay Sethupathi, Malavika Mohanan"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Sarkar",
+    "language": "Tamil",
+    "clues": [
+      "NRI exposes electoral fraud, sparks political revolution.",
+      "Hero burns fake ballots in public protest.",
+      "\"I am not a politician. I am a corporate criminal.\"",
+      "A. R. Murugadoss",
+      "Vijay, Keerthy Suresh, Varalaxmi Sarathkumar"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Darbar",
+    "language": "Tamil",
+    "clues": [
+      "Top cop hunts drug lord while hiding personal vendetta.",
+      "Hero storms prison to expose criminal impersonation.",
+      "\"I’m not a policeman. I’m the police.\"",
+      "A. R. Murugadoss",
+      "Rajinikanth, Nayanthara, Suniel Shetty"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Thunivu",
+    "language": "Tamil",
+    "clues": [
+      "Mysterious man hijacks a bank to expose financial corruption.",
+      "Hero detonates car bomb to thwart sniper attack during standoff.",
+      "\"No guts, no glory.\"",
+      "H. Vinoth",
+      "Ajith Kumar, Manju Warrier, Samuthirakani"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "I",
+    "language": "Tamil",
+    "clues": [
+      "Bodybuilder-turned-model seeks revenge after being disfigured.",
+      "Hero transforms into beast and confronts enemies in climax.",
+      "\" Athukum mela...\"",
+      "S. Shankar",
+      "Vikram, Amy Jackson, Suresh Gopi"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Mersal",
+    "language": "Tamil",
+    "clues": [
+      "Magician avenges medical corruption tied to his family’s past.",
+      "Hero performs magic trick that exposes corrupt doctor on stage.",
+      "\" Let's go... let's get it...\"",
+      "Atlee",
+      "Vijay, Samantha, Nithya Menen, Kajal Aggarwal"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Viswasam",
+    "language": "Tamil",
+    "clues": [
+      "Village chieftain reunites with estranged family to protect daughter.",
+      "Hero shields daughter from explosion during school attack.",
+      "\"Nambikkai dhan uyir da.\"",
+      "Siva",
+      "Ajith Kumar, Nayanthara, Jagapathi Babu"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Anniyan",
+    "language": "Tamil",
+    "clues": [
+      "Lawyer with split personalities punishes corrupt citizens violently.",
+      "Hero punishes a corrupt man using Garuda Puranam methods.",
+      "\" Garudapuram vazhiye thandika paduvar\"",
+      "S. Shankar",
+      "Vikram, Sadha, Prakash Raj"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "The Shawshank Redemption",
+    "language": "English",
+    "clues": [
+      "Banker wrongly imprisoned finds hope and freedom through resilience.",
+      "Hero escapes prison through tunnel and launders warden’s money.",
+      "\"Hope is a good thing, maybe the best of things.\"",
+      "Frank Darabont",
+      "Tim Robbins, Morgan Freeman, Bob Gunton"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "The Dark Knight",
+    "language": "English",
+    "clues": [
+      "Masked vigilante battles anarchist threatening city’s moral fabric.",
+      "Hero interrogates villain in police station under flickering light.",
+      "\"Why so serious?\"",
+      "Christopher Nolan",
+      "Christian Bale, Heath Ledger, Aaron Eckhart"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "12 Angry Men",
+    "language": "English",
+    "clues": [
+      "Juror challenges peers to reconsider murder verdict with reason.",
+      "Hero reenacts witness testimony to prove doubt in timeline.",
+      "\"It's not easy to raise my hand and send a boy off to die without talking about it first.\"",
+      "Sidney Lumet",
+      "Henry Fonda, Lee J. Cobb, Jack Warden"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Schindler's List",
+    "language": "English",
+    "clues": [
+      "Industrialist saves Jews by employing them during Holocaust.",
+      "Hero breaks down saying he could’ve saved more lives.",
+      "\"Whoever saves one life, saves the world entire.\"",
+      "Steven Spielberg",
+      "Liam Neeson, Ben Kingsley, Ralph Fiennes"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Pulp Fiction",
+    "language": "English",
+    "clues": [
+      "Intertwined stories of crime, redemption, and dark humor.",
+      "Hero and partner clean up accidental shooting in car.",
+      "\"Say 'what' again! I dare you!\"",
+      "Quentin Tarantino",
+      "John Travolta, Samuel L. Jackson, Uma Thurman"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Forrest Gump",
+    "language": "English",
+    "clues": [
+      "Simple man’s life intersects major historical events with heart and humor.",
+      "Hero runs across America, inspiring strangers along the way.",
+      "\"Life is like a box of chocolates.\"",
+      "Robert Zemeckis",
+      "Tom Hanks, Robin Wright, Gary Sinise"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Fight Club",
+    "language": "English",
+    "clues": [
+      "Disillusioned man forms underground club to rebel against consumerism.",
+      "Hero realizes he and his friend are the same person.",
+      "\"The first rule of **** is : You do not talk about **** \"",
+      "David Fincher",
+      "Brad Pitt, Edward Norton, Helena Bonham Carter"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Inception",
+    "language": "English",
+    "clues": [
+      "Thief plants idea in target’s mind through layered dreams.",
+      "Hero spins top to test reality in ambiguous final scene.",
+      "\"You mustn’t be afraid to dream a little bigger, darling.\"",
+      "Christopher Nolan",
+      "Leonardo DiCaprio, Joseph Gordon-Levitt, Marion Cotillard"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Interstellar",
+    "language": "English",
+    "clues": [
+      "Astronauts travel through wormhole to save humanity from extinction.",
+      "Hero enters black hole and communicates through daughter’s bookshelf.",
+      "\"Love is the one thing that transcends time and space.\"",
+      "Christopher Nolan",
+      "Matthew McConaughey, Anne Hathaway, Jessica Chastain"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Se7en",
+    "language": "English",
+    "clues": [
+      "Detectives hunt killer using seven deadly sins as motive.",
+      "Hero opens box revealing tragic twist involving his wife.",
+      "\"What's in the box?!\"",
+      "David Fincher",
+      "Brad Pitt, Morgan Freeman, Kevin Spacey"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "The Silence of the Lambs",
+    "language": "English",
+    "clues": [
+      "FBI trainee seeks help from cannibal to catch serial killer.",
+      "Heroine descends into killer’s lair to rescue captive victim.",
+      "\"I ate his liver with some fava beans and a nice Chianti.\"",
+      "Jonathan Demme",
+      "Jodie Foster, Anthony Hopkins, Ted Levine"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Saving Private Ryan",
+    "language": "English",
+    "clues": [
+      "Soldiers search for paratrooper after his brothers are killed.",
+      "Hero sacrifices himself defending bridge in final battle.",
+      "\"Earn this.\"",
+      "Steven Spielberg",
+      "Tom Hanks, Matt Damon, Tom Sizemore"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "The Green Mile",
+    "language": "English",
+    "clues": [
+      "Death row guard discovers inmate with miraculous healing powers.",
+      "Hero watches inmate cure illness by absorbing pain.",
+      "\"I'm tired, boss. Tired of being on the road.\"",
+      "Frank Darabont",
+      "Tom Hanks, Michael Clarke Duncan, David Morse"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Gladiator",
+    "language": "English",
+    "clues": [
+      "Betrayed general becomes gladiator to avenge murdered family.",
+      "Hero removes helmet and reveals identity in arena.",
+      "\"Are you not entertained?\"",
+      "Ridley Scott",
+      "Russell Crowe, Joaquin Phoenix, Connie Nielsen"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "The Lion King",
+    "language": "English",
+    "clues": [
+      "Exiled lion returns to reclaim throne from evil uncle.",
+      "Hero confronts uncle on Pride Rock during storm.",
+      "\"Hakuna Matata!\"",
+      "Roger Allers, Rob Minkoff",
+      "Matthew Broderick, James Earl Jones, Jeremy Irons"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Dangal",
+    "language": "Hindi",
+    "clues": [
+      "Father trains daughters to become world-class wrestlers.",
+      "Heroine wins gold by using father's wrestling technique.",
+      "\"Mhaari chhoriyaan chhoron se kam hain ke?\"",
+      "Nitesh Tiwari",
+      "Aamir Khan, Fatima Sana Shaikh, Sanya Malhotra"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Jawan",
+    "language": "Hindi",
+    "clues": [
+      "Vigilante jailer exposes corruption with help from inmates.",
+      "Hero hijacks metro and donates ransom to farmers’ families.",
+      "\"Bete ko haath lagane se pehle, baap se baat kar.\"",
+      "Atlee",
+      "Shah Rukh Khan, Nayanthara, Vijay Sethupathi"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Bajrangi Bhaijaan",
+    "language": "Hindi",
+    "clues": [
+      "Devotee helps mute girl return to Pakistan.",
+      "Hero crosses border to reunite girl with her mother.",
+      "\"Aapka naam kya hai?\"",
+      "Kabir Khan",
+      "Salman Khan, Harshaali Malhotra, Nawazuddin Siddiqui"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Animal",
+    "language": "Hindi",
+    "clues": [
+      "Son turns violent avenger after father’s assassination attempt.",
+      "Hero slaughters enemies in a blood-soaked climax.",
+      "\"Main jaanwar ban gaya hoon.\"",
+      "Sandeep Reddy Vanga",
+      "Ranbir Kapoor, Anil Kapoor, Rashmika Mandanna"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "PK",
+    "language": "Hindi",
+    "clues": [
+      "Alien questions religious dogma after losing communication device.",
+      "Hero debates godman on live TV about blind faith.",
+      "\"Wrong number hai!\"",
+      "Rajkumar Hirani",
+      "Aamir Khan, Anushka Sharma, Sushant Singh Rajput"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Manjummel Boys",
+    "language": "Malayalam",
+    "clues": [
+      "Friends risk lives to rescue one trapped in deadly cave.",
+      "Hero descends into Guna Caves to save unconscious friend.",
+      "\"Naangal undu alle!\"",
+      "Chidambaram",
+      "Soubin Shahir, Sreenath Bhasi, Balu Varghese"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "2018",
+    "language": "Malayalam",
+    "clues": [
+      "Ordinary people unite to survive devastating Kerala floods.",
+      "Hero rows boat through flooded streets to rescue villagers.",
+      "\"Everyone is a hero.\"",
+      "Jude Anthany Joseph",
+      "Tovino Thomas, Kunchacko Boban, Asif Ali"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "The Goat Life",
+    "language": "Malayalam",
+    "clues": [
+      "Migrant enslaved as goat herder escapes desert captivity.",
+      "Hero flees across desert after years of brutal isolation.",
+      "\"I want to live, not just survive.\"",
+      "Blessy",
+      "Prithviraj Sukumaran, Jimmy Jean-Louis, Amala Paul"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Aavesham",
+    "language": "Malayalam",
+    "clues": [
+      "Students befriend gangster to take revenge on bullies.",
+      "Hero crashes Holi celebration to beat up college seniors.",
+      "\"Eda monae, ithu enganeyundu, nokku.\"",
+      "Jithu Madhavan",
+      "Fahadh Faasil, Hipzster, Mithun Jai Shankar"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Pulimurugan",
+    "language": "Malayalam",
+    "clues": [
+      "Hunter protects village from rogue tigers and smugglers.",
+      "Hero leaps onto tiger mid-air in forest showdown.",
+      "\"Ngyaan varunnu!\"",
+      "Vysakh",
+      "Mohanlal, Jagapathi Babu, Kamalinee Mukherjee"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Premalu",
+    "language": "Malayalam",
+    "clues": [
+      "Goofy guy falls for IT girl in Hyderabad amid comic chaos.",
+      "Hero confesses love at wedding, causing hilarious confusion.",
+      "\"Reenu... I love you!\"",
+      "Girish A. D.",
+      "Naslen, Mamitha Baiju, Sangeeth Prathap"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Bheeshma Parvam",
+    "language": "Malayalam",
+    "clues": [
+      "Feared patriarch faces betrayal from within powerful family.",
+      "Hero walks into ambush and eliminates traitors with style.",
+      "\"Kochiyil oru Michael undu.\"",
+      "Amal Neerad",
+      "Mammootty, Soubin Shahir, Shine Tom Chacko"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Neru",
+    "language": "Malayalam",
+    "clues": [
+      "Blind sculptor seeks justice in emotional courtroom battle.",
+      "Heroine sculpts attacker’s face to identify him in court.",
+      "\"Ningal kandathalla, njan thottathaanu.\"",
+      "Jeethu Joseph",
+      "Mohanlal, Anaswara Rajan, Priyamani"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "RDX",
+    "language": "Malayalam",
+    "clues": [
+      "Three martial artists avenge brutal attack on family.",
+      "Hero trio storms enemy hideout in explosive climax.",
+      "\"RDX varunnu!\"",
+      "Nahas Hidhayath",
+      "Shane Nigam, Antony Varghese, Neeraj Madhav"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Premam",
+    "language": "Malayalam",
+    "clues": [
+      "Man’s romantic journey through three stages of life.",
+      "Hero dances with college crush in iconic ‘Malare’ scene.",
+      "\"Kaalam kettu poyi, Malar miss.\"",
+      "Alphonse Puthren",
+      "Nivin Pauly, Sai Pallavi, Madonna Sebastian"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Varshangalkku Shesham",
+    "language": "Malayalam",
+    "clues": [
+      "Two friends chase cinema dreams through decades of change.",
+      "Hero plays violin in emotional stage performance after heartbreak.",
+      "\"Cinema oru swapnam aanu.\"",
+      "Vineeth Sreenivasan",
+      "Pranav Mohanlal, Dhyan Sreenivasan, Nivin Pauly"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Kannur Squad",
+    "language": "Malayalam",
+    "clues": [
+      "Police team tracks brutal killers across Indian states.",
+      "Hero arrests gang leader after intense highway chase.",
+      "\"We are not heroes\"",
+      "Roby Varghese Raj",
+      "Mammootty, Azees Nedumangad, Rony David Raj"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Kurup",
+    "language": "Malayalam",
+    "clues": [
+      "Conman fakes death to escape law and live rich.",
+      "Hero vanishes after murdering man for insurance fraud.",
+      "\"eni muthal, enne aaru kaananamennu njaan theerumaanikkum, athu khaki aanum seri khadar aanum seri\"",
+      "Srinath Rajendran",
+      "Dulquer Salmaan, Sobhita Dhulipala, Indrajith Sukumaran"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Kishkindha Kaandam",
+    "language": "Malayalam",
+    "clues": [
+      "Retired soldier uncovers forest mystery tied to missing grandson.",
+      "Hero confronts old comrade hiding dark secrets in jungle.",
+      "\"Oru gun poyathinte pinne oru jeevitham poyirikkunnu.\"",
+      "Dinjith Ayyathan",
+      "Asif Ali, Aparna Balamurali, Vijayaraghavan"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Thattassery Koottam",
+    "language": "Malayalam",
+    "clues": [
+      "Goldsmith’s nephew juggles love, dreams, and family chaos.",
+      "Hero proposes during temple festival amid comic confusion.",
+      "\"Sanju, nee oru tharam aakum!\"",
+      "Anoop Padmanaban",
+      "Arjun Ashokan, Ganapathi, Vijayaraghavan"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "2.0",
+    "language": "Tamil",
+    "clues": [
+      "Scientist revives robot to stop deadly force harming birds.",
+      "Hero unleashes giant robot bird to battle villain in city.",
+      "\"I am the only one, super one.\"",
+      "S. Shankar",
+      "Rajinikanth, Akshay Kumar, Amy Jackson"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "The Greatest of All Time",
+    "language": "Tamil",
+    "clues": [
+      "Time-traveling hero fights to fix past and save future.",
+      "Hero meets younger self in emotional confrontation.",
+      "\"Past-a vida mudikka future-a varanum.\"",
+      "Venkat Prabhu",
+      "Vijay, Meenakshi Chaudhary, Prashanth"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Amaran",
+    "language": "Tamil",
+    "clues": [
+      "Rebel soldier rises against colonial oppression in French India.",
+      "Hero leads villagers in fiery revolt against French troops.",
+      "\"Naan oru porali da!\"",
+      "Rajkumar Periyasamy",
+      "Sivakarthikeyan, Sai Pallavi, Bhuvan Arora"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Varisu",
+    "language": "Tamil",
+    "clues": [
+      "Business heir returns to save family from corporate enemies.",
+      "Hero delivers emotional speech uniting estranged family.",
+      "\"En kudumbam, en uyir.\"",
+      "Vamshi Paidipally",
+      "Vijay, Rashmika Mandanna, R. Sarathkumar"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Petta",
+    "language": "Tamil",
+    "clues": [
+      "Hostel warden hides violent past while protecting students.",
+      "Hero reveals identity and defeats gangster in snowy climax.",
+      "\"Intha aatam podhuma kozhandai..\"",
+      "Karthik Subbaraj",
+      "Rajinikanth, Nawazuddin Siddiqui, Vijay Sethupathi"
+    ]
+  }
+]
