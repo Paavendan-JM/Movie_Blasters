@@ -100,6 +100,10 @@ const startGame = () => {
     return
   }
 
+  console.log('Available movies:', movies.value);
+  console.log('Selected language:', selectedLanguage.value);
+
+
   const filteredMovies = movies.value.filter(
     (m) => m.language.toLowerCase() === selectedLanguage.value.toLowerCase()
   )
