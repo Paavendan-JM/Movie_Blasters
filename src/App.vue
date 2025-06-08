@@ -79,7 +79,7 @@ let timerInterval = null
 
 const loadMovies = async () => {
   try {
-    const response = await fetch('/.netlify/functions/getMovie')
+    const response = await fetch('/.netlify/functions/getMovie.cjs')
     if (!response.ok) throw new Error('Failed to fetch movies')
     movies.value = await response.json()
   } catch (e) {
