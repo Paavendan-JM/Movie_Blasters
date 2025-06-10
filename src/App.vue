@@ -100,6 +100,9 @@ const startGame = () => {
     return
   }
 
+  console.log("All movie languages:", movies.value.map(m => m.language));
+  console.log("All movies:", movies.value);
+
   console.log("Selected language:", selectedLanguage.value);
   console.log("Movie languages:", movies.value.map(m => m.language));
 
