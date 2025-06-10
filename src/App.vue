@@ -100,13 +100,12 @@ const startGame = () => {
     return
   }
 
-  console.log('Available movies:', movies.value);
-  console.log('Selected language:', selectedLanguage.value);
-
+  console.log("Selected language:", selectedLanguage.value);
+  console.log("Movie languages:", movies.value.map(m => m.language));
 
   const filteredMovies = movies.value.filter(
-    (m) => m.language.toLowerCase() === selectedLanguage.value.toLowerCase()
-  )
+  (m) => m.language === selectedLanguage.value
+)
 
   if (filteredMovies.length === 0) {
     alert('No movies found for this language.')
